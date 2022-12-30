@@ -1,0 +1,11 @@
+.bdy{
+    background-color: rgb(127, 219, 255);
+    border-radius: 8px;
+    background-image: linear-gradient(45deg,
+    rgba(240, 241, 224, 0.75),
+    rgba(110, 195, 235, 0.75)),url('/static/images/pic1.jpg');
+}
+.slider-images{
+    height: 100px!important;
+    object-fit: cover;
+}
